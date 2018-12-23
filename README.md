@@ -1,5 +1,5 @@
 # RappyBoard
-RappyBoard, a web-based rap soundboard, entertaining sound sound bite visualizer &amp; music creation and sharing platform
+RappyBoard, a web-based rap soundboard, entertaining sound sound bite visualizer, and music creation and sharing platform
 
 ![Alt text](./pics/landingPage.png?raw=true "Title")
 
